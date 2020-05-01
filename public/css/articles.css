@@ -1,6 +1,7 @@
-.articles {
+.article {
     text-align: center;
     padding-top: 30px;
+    z-index: 999;
 }
 
 .articles__title {
@@ -9,5 +10,19 @@
     color: black;
     border-bottom: 4px solid #6a89cc;
     display: inline;
+    
 }
 
+.articles__items {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+
+.articles {
+    width: 25%;
+    height: 250px;
+    background-color: red;
+    border-radius: 5px;
+}
