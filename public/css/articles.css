@@ -27,6 +27,7 @@
     position: relative;
     overflow: hidden;
     padding: 20px;
+    text-decoration: none;
 }
 
 .articles__filter {
