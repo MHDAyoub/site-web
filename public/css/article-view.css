@@ -1,0 +1,14 @@
+.header  {
+    height: 400px;
+}
+
+.header__article .header__texture {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0; left: 0;
+    background: url('../img/a3.jpg') center no-repeat;
+    background-size: cover;
+    z-index: 1;
+    opacity: 0.5;
+}
