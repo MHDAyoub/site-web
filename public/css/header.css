@@ -4,6 +4,7 @@
     background-color: rgb(62, 57, 107);
     position: relative;
 }
+
 .header__texture {
     width: 100%;
     height: 100%;
@@ -115,6 +116,7 @@
         height: 100vh;
         background: #6a89cc;
         top: 0; left: 0;
+        
     }
     .header__navbar--menu-link{
         margin: 20px 0;
